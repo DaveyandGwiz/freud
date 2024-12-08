@@ -20,8 +20,16 @@ dream work - the transformation of thoughts into dreams.
 * Intelligeble, coherent, but seem unrelated to our life.
 * incoherent, complicated, and meaningless. // most dreams of adults
 
+Child Dreams:
 In child dreams, latent and manifest content are similar.
 Dreams are related to realization of a wish from the day before.
+Dreams can be expressed by a phrase expressing desire
+Dream work - coverstaion of wishes realized into scenes and images.
+
+"An idea merely existing in the region of possibility is replaced by a vision of its accomplishment.
+"
+Adult Dreams:
+* Tend to cover meaning beyond realization of a wish or seem to due to bizarre nature.
 
 
 
