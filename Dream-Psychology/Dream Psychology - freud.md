@@ -4257,6 +4257,7 @@ prefer to proceed in the opposite direction, and, starting from the
 dream, to establish a connection with the psychology of the neuroses. I
 am well aware of all the inconveniences arising for the reader from this
 difficulty, but I know of no way to avoid them.
+// Freud admits his views are based on studsying nerousus
 
 As I am dissatisfied with this state of affairs, I am glad to dwell
 upon another view-point which seems to raise the value of my efforts. As
@@ -4314,7 +4315,10 @@ content; the preceding parts of the dream process probably take a slow,
 fluctuating course. We have solved the riddle of the superabundant dream
 content compressed within the briefest moment by explaining that this is
 due to the appropriation of almost fully formed structures from the
-psychic life. That the dream is disfigured and distorted by memory we
+psychic life.
+// dreams form rapidly due to the structure of the mind.
+
+That the dream is disfigured and distorted by memory we
 found to be correct, but not troublesome, as this is only the last
 manifest operation in the work of disfigurement which has been active
 from the beginning of the dream-work. In the bitter and seemingly
@@ -5107,6 +5111,9 @@ that we have learned from the analysis of the psychopathological
 formations, and indeed from their first member, viz. dreams, is that the
 unconscious--hence the psychic--occurs as a function of two separate
 systems and that it occurs as such even in normal psychic life.
+// the dream is a product of the unc. which is split in two.
+// the two fold div of the unconscious is the segemnt incapable of consciousness and the fore.
+
 Consequently there are two kinds of unconscious, which we do not as yet
 find distinguished by the psychologists. Both are unconscious in the
 psychological sense; but in our sense the first, which we call Unc., is
@@ -5123,16 +5130,20 @@ between the system Unc. and consciousness. The system Forec. not only
 bars access to consciousness, but also controls the entrance to
 voluntary motility and is capable of sending out a sum of mobile energy,
 a portion of which is familiar to us as attention.
+// the fore. acts as a wall between the unc. and consciousness.
+
 
 We must also steer clear of the distinctions superconscious and
 subconscious which have found so much favor in the more recent
 literature on the psychoneuroses, for just such a distinction seems to
 emphasize the equivalence of the psychic and the conscious.
+// subcon. seems to make con. fundamental to psychic life.
 
 What part now remains in our description of the once all-powerful and
 all-overshadowing consciousness? None other than that of a sensory organ
-for the perception of psychic qualities. According to the fundamental
-idea of schematic undertaking we can conceive the conscious perception
+for the perception of psychic qualities. 
+// con. is the sensory organ of the mind.
+According to the fundamental idea of schematic undertaking we can conceive the conscious perception
 only as the particular activity of an independent system for which the
 abbreviated designation "Cons." commends itself. This system we conceive
 to be similar in its mechanical characteristics to the perception system
@@ -5155,25 +5166,37 @@ The philosophers, who have learned that correct and highly complicated
 thought structures are possible even without the coöperation of
 consciousness, have found it difficult to attribute any function to
 consciousness; it has appeared to them a superfluous mirroring of the
-perfected psychic process. The analogy of our Cons. system with the
+perfected psychic process. 
+// why is con needed if thoought can be unc.?
+The analogy of our Cons. system with the
 systems of perception relieves us of this embarrassment. We see that
 perception through our sensory organs results in directing the
 occupation of attention to those paths on which the incoming sensory
-excitement is diffused; the qualitative excitement of the P-system
+excitement is diffused; the qualitative excitement of the P-system (perception system)
 serves the mobile quantity of the psychic apparatus as a regulator for
-its discharge. We may claim the same function for the overlying sensory
+its discharge. 
+We may claim the same function for the overlying sensory
 organ of the Cons. system. By assuming new qualities, it furnishes a new
 contribution toward the guidance and suitable distribution of the mobile
-occupation quantities. By means of the perceptions of pleasure and pain,
+occupation quantities. 
+By means of the perceptions of pleasure and pain,
 it influences the course of the occupations within the psychic
 apparatus, which normally operates unconsciously and through the
-displacement of quantities. It is probable that the principle of pain
+displacement of quantities.
+// perceptions of pleasure and pain influence unc. thought processes.
+
+ It is probable that the principle of pain
 first regulates the displacements of occupation automatically, but it is
 quite possible that the consciousness of these qualities adds a second
 and more subtle regulation which may even oppose the first and perfect
 the working capacity of the apparatus by placing it in a position
 contrary to its original design for occupying and developing even that
-which is connected with the liberation of pain. We learn from
+which is connected with the liberation of pain. 
+// If consciouness is the part of the mind that processes perceptions
+// how can pain be perceived without being conscious?
+// I suppose I was assuming pain here meant adverse emotional state. 
+//Freud seems to mean nocieption when he speaks of pain. Perhaps this is due to translation or the state of science of his // time
+We learn from
 neuropsychology that an important part in the functional activity of the
 apparatus is attributed to such regulations through the qualitative
 excitation of the sensory organs. The automatic control of the primary
